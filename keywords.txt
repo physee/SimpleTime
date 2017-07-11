@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For SimpleTime
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+time_t	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+second	KEYWORD2
+minute	KEYWORD2
+hour	KEYWORD2
+day	KEYWORD2
+month	KEYWORD2
+year	KEYWORD2
+weekday	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
