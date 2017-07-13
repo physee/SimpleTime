@@ -1,0 +1,25 @@
+  {
+  "name": "SimpleTime",
+  "version": "1.0.0",
+  "keywords": "Time, date, hour, minute, second, day, week, month, year",
+  "description": "Simple time libray to convert unix timestamp",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/physee/SimpleTime.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Pim Rutgers",
+      "email": "pim@physee.eu",
+      "url": "http://github.com/physee",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "atmelavr"
+  ],
+}
