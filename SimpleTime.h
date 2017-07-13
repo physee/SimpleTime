@@ -3,9 +3,9 @@
 */
 
 
-#ifndef _Time_h
+#ifndef _SimpleTime_h
 #ifdef __cplusplus
-#define _Time_h
+#define _SimpleTime_h
 
 #include <inttypes.h>
 #ifndef __AVR__
@@ -48,4 +48,4 @@ int year(time_t t);    // the year for the given time
 void breakTime(time_t time, stElements_t &st);  // break time_t into elements
 
 #endif // __cplusplus
-#endif /* _Time_h */
+#endif /* _SimpleTime_h */
